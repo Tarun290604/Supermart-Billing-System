@@ -1,0 +1,4 @@
+ 1 bread 50 2
+ 2 chips 60 5
+ 3 jam 55 5
+ 4 biscuit 66 3
